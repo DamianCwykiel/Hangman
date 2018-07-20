@@ -1,2 +1,2 @@
-CLASSIC GAME IN A HANGMAN
+#CLASSIC GAME IN A HANGMAN#
 https://damiancwykiel.github.io/Hangman/
