@@ -10,7 +10,7 @@ var hasla =
 
 "Im dalej w las tym więcej drzew",
 
-"Mówiły jaskółki, że nie dobre sa spółki",
+"Mówiły jaskółki że nie dobre sa spółki",
 
 "Piórku Piórku mały jest"
 ];
