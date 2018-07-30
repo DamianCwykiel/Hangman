@@ -6,13 +6,12 @@ var hasla =
 
 "Gdyby kózka nie skakała to by nóżki nie złamała",
 
-"Kaczce soczku sie zachciało patrzcie co się z Kaczką stało",
+"Kaczce soczku się zachciało patrzcie co się z Kaczką stało",
 
 "Im dalej w las tym więcej drzew",
 
-"Mówiły jaskółki że nie dobre sa spółki",
+"Mówiły jaskółki że nie dobre są spółki",
 
-"Piórku Piórku mały jest"
 ];
 
 var losowanie= Math.floor(Math.random()*hasla.length);
@@ -33,9 +32,6 @@ var no=new Audio("no.wav");
 
 var haslo1= "";
  
- 
-
-
 for (i=0; i<dlugosc; i++)
 	
 {
