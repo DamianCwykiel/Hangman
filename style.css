@@ -1,5 +1,4 @@
-body
-{
+body {
 	background-color:#000000;
 	color: lightgray;
 	font-size:28px;
@@ -7,15 +6,13 @@ body
 	font-weight: 700;
 }
 
-#pojemnik
-{
+#pojemnik {
 	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#plansza
-{
+#plansza {
 	width: 900px;
 	margin-top: 50px;
 	margin-bottom: 50px;
@@ -25,24 +22,21 @@ body
 	
 }
 
-#szubienica
-{
+#szubienica {
 	float: left;
 	width: 450px;
 	text-align: center;
 	min-height:280px;
 }
 
-#alfabet
-{
+#alfabet {
 	float: left;
 	width: 450px;
 	text-align: center;
 	min-height:280px;
 }
 
-.litera
-{
+.litera {
 	width: 30px;
 	height: 30px;
 	text-align: center;
@@ -53,19 +47,19 @@ body
 	cursor: pointer;
 	border-radius: 15px;
 }
-.litera:hover
-{
+
+.litera:hover {
 	background-color: #222222;
 	color: white;
 	border: 3px solid white;
 }
-.reset
-{
+
+.reset {
 	color: green;
 	cursor: pointer;
 	font-size: 48px;
 }
-.reset:hover
-{
+
+.reset:hover {
 	color: white;
 }
